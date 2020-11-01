@@ -3,10 +3,10 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.veremis@gmail.com)
 
 
-<a href="https://github.com/estamos/github-readme-stats">
+<a href="https://github.com/alexveremis/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexveremis&show_icons=true" />
 </a>
-<a href="https://github.com/estamos/github-readme-stats">
+<a href="https://github.com/alexveremis/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexveremis&layout=compact" />
 </a>
 
