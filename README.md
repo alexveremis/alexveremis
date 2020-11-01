@@ -1,4 +1,4 @@
-### Hi there, I'm Alex Veremis! 👋
+### Hi there, I'm Alex Veremis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.veremis@gmail.com)
 
