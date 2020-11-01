@@ -39,6 +39,7 @@ You can find me on    [![LinkedIn][2.2]][2].
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
 <!--
 **alexveremis/alexveremis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
