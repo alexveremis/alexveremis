@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex Veremis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-You can find me on [![LinkedIn][2.2]][2].
+You can find me on  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
