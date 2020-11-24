@@ -8,7 +8,7 @@ You can find me on    [![LinkedIn][2.2]][2].
 
 <!-- Links to social media accounts -->
 
-[2]: https://www.linkedin.com/in/alexandros-veremis-729593185/
+[2]: https://www.linkedin.com/in/alex-veremis-729593185/
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.veremis@gmail.com)
 
