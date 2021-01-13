@@ -14,7 +14,7 @@ You can find me on    [![LinkedIn][2.2]][2].
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/alexveremis/alexveremis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexveremis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html&hide=typescript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexveremis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=typescript" />
 </a>
 <a href="https://github.com/alexveremis/alexveremis">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexveremis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex's GitHub Stats" />
