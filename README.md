@@ -9,9 +9,6 @@ You can find me on    [![LinkedIn][2.2]][2].
 <!-- Links to social media accounts -->
 
 [2]: https://www.linkedin.com/in/alex-veremis-729593185/
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.veremis@gmail.com)
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/alexveremis/alexveremis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexveremis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html,typescript" />
